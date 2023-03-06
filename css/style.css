@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: antiquewhite;
+}
+#random-activity-btn{
+    font-size: 1.2rem;
+    background-color: rgb(207, 168, 158);
+    border: 3px solid rgb(143, 124, 99);
+    border-radius: 10px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
